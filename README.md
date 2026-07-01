@@ -1,27 +1,172 @@
-# 💫 About Me:
-🔭 ECE student passionate about VLSI and Embedded Systems  <br>🌱 Currently learning Verilog, Embedded C, and Digital Design  <br>🚀 Interested in building innovative hardware and embedded projects  <br>🤝 Open to collaboration on electronics and VLSI-related projects  <br>💡 Creative thinker with strong interest in problem-solving and innovation  <br>⚡ Goal: To develop impactful real-world engineering solutions
+<h1 align="center">Hi 👋, I'm Gokulan GT</h1>
 
+<h3 align="center">
+Electronics and Communication Engineering Student | VLSI Enthusiast | Embedded Systems Learner
+</h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/djRyYRUKju) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_me._.gokulan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gokulan GT) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gokulan31) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@legendgamer023) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokulan2431@gmail.com) 
+<p align="center">
+<a href="https://gokulan3124.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=githubpages">
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Gokulan3124&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Gokulan3124&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gokulan3124&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/Gokulan3124">
+<img src="https://img.shields.io/github/followers/Gokulan3124?label=Followers&style=for-the-badge">
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gokulan3124&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gokulan3124&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/Gokulan3124">
+<img src="https://komarev.com/ghpvc/?username=Gokulan3124&style=for-the-badge">
+</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Gokulan3124&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+🎓 Electronics and Communication Engineering Student
+
+💻 Passionate about
+
+- VLSI Design
+- Embedded Systems
+- Digital Electronics
+- FPGA
+- IoT
+
+🌱 Currently Learning
+
+- Verilog HDL
+- Embedded C
+- MATLAB
+- PCB Design
+- RTL Design
+
+🚀 Building Real World Hardware Projects
+
+🤝 Open to Internship Opportunities
+
+---
+
+# 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=githubpages)](https://gokulan3124.github.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gokulangt)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Gokulan3124)
+
+[![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/gokulan31)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/itz_me._.gokulan)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:gokulan2431@gmail.com)
+
+---
+
+# 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+
+![Embedded C](https://img.shields.io/badge/Embedded%20C-success?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+![Verilog](https://img.shields.io/badge/Verilog-red?style=for-the-badge)
+
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+
+---
+
+# ⚙ Embedded Systems
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+
+![8051](https://img.shields.io/badge/8051-blue?style=for-the-badge)
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+
+![IoT](https://img.shields.io/badge/IoT-green?style=for-the-badge)
+
+---
+
+# 🖥 Software Skills
+
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+
+![Proteus](https://img.shields.io/badge/Proteus-blue?style=for-the-badge)
+
+![LTSpice](https://img.shields.io/badge/LTSpice-red?style=for-the-badge)
+
+![Multisim](https://img.shields.io/badge/Multisim-yellow?style=for-the-badge)
+
+![Keil](https://img.shields.io/badge/Keil-uVision-green?style=for-the-badge)
+
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+# 🎯 Areas of Interest
+
+- VLSI Design
+- FPGA Design
+- Embedded Systems
+- ASIC Design
+- Digital Electronics
+- Computer Architecture
+- RTL Design
+- PCB Design
+- IoT
+- Robotics
+
+---
+
+# 📌 Featured Projects
+
+🚗 Ultrasonic Distance Control with Auto Braking System
+
+💡 Verilog HDL Projects
+
+⚡ Embedded Systems Projects
+
+📡 IoT Projects
+
+💻 Digital Logic Design
+
+🌐 Personal Portfolio Website
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Gokulan3124&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gokulan3124&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulan3124&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Gokulan3124&theme=algolia)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Gokulan3124&theme=github-compact)
+
+---
+
+# 📫 Contact
+
+📧 Email: **gokulan2431@gmail.com**
+
+🌐 Portfolio: **https://gokulan3124.github.io**
+
+💼 LinkedIn: **https://linkedin.com/in/gokulangt**
