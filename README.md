@@ -1,143 +1,168 @@
 <h1 align="center">Hi 👋, I'm Gokulan GT</h1>
 
 <h3 align="center">
-Electronics and Communication Engineering Student | VLSI Enthusiast | Embedded Systems Learner
+Electronics & Communication Engineering Student | VLSI | Embedded Systems | FPGA | IoT
 </h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Embedded+Systems+Developer;VLSI+Design+Learner;Verilog+%7C+MATLAB+%7C+FPGA;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+<p align="center">
+
 <a href="https://gokulan3124.github.io">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=githubpages">
 </a>
 
 <a href="https://github.com/Gokulan3124">
-<img src="https://img.shields.io/github/followers/Gokulan3124?label=Followers&style=for-the-badge">
-</a>
-
-<a href="https://github.com/Gokulan3124">
 <img src="https://komarev.com/ghpvc/?username=Gokulan3124&style=for-the-badge">
 </a>
-</p>
 
----
+</p>
 
 # 👨‍💻 About Me
 
-🎓 Electronics and Communication Engineering Student
+- 🎓 Electronics and Communication Engineering Student
 
-💻 Passionate about
+- 💻 Passionate about Embedded Systems, VLSI Design and Digital Electronics
 
-- VLSI Design
-- Embedded Systems
-- Digital Electronics
-- FPGA
-- IoT
+- 🌱 Currently Learning
 
-🌱 Currently Learning
+  - Verilog HDL
+  - Embedded C
+  - MATLAB
+  - FPGA Design
+  - PCB Design
+  - RTL Design
 
-- Verilog HDL
-- Embedded C
-- MATLAB
-- PCB Design
-- RTL Design
+- 🚀 Building Real World Embedded Projects
 
-🚀 Building Real World Hardware Projects
-
-🤝 Open to Internship Opportunities
+- 🎯 Goal: Become a VLSI & Embedded Systems Engineer
 
 ---
 
 # 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=githubpages)](https://gokulan3124.github.io)
+<p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gokulangt)
+<a href="https://gokulan3124.github.io">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=githubpages">
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Gokulan3124)
+<a href="https://github.com/Gokulan3124">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
-[![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/gokulan31)
+<a href="https://linkedin.com/in/gokulangt">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/itz_me._.gokulan)
+<a href="https://x.com/gokulan31">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x">
+</a>
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:gokulan2431@gmail.com)
+<a href="https://instagram.com/itz_me._.gokulan">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+</a>
+
+<a href="mailto:gokulan2431@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
 
 ---
 
 # 💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+<p>
 
-![Embedded C](https://img.shields.io/badge/Embedded%20C-success?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+</p>
 
-![Verilog](https://img.shields.io/badge/Verilog-red?style=for-the-badge)
+### HDL
 
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+- Verilog HDL
+- RTL Design
 
 ---
 
 # ⚙ Embedded Systems
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+<p>
 
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=arduino"/>
 
-![8051](https://img.shields.io/badge/8051-blue?style=for-the-badge)
+</p>
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+- ESP32
 
-![IoT](https://img.shields.io/badge/IoT-green?style=for-the-badge)
+- STM32
 
----
+- 8051 Microcontroller
 
-# 🖥 Software Skills
+- Arduino
 
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-
-![Proteus](https://img.shields.io/badge/Proteus-blue?style=for-the-badge)
-
-![LTSpice](https://img.shields.io/badge/LTSpice-red?style=for-the-badge)
-
-![Multisim](https://img.shields.io/badge/Multisim-yellow?style=for-the-badge)
-
-![Keil](https://img.shields.io/badge/Keil-uVision-green?style=for-the-badge)
-
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+- IoT
 
 ---
 
-# 🎯 Areas of Interest
+# 🖥 Software & EDA Tools
+
+- MATLAB
+- Proteus
+- LTspice
+- Multisim
+- Keil uVision
+- Arduino IDE
+- VS Code
+- Git
+- GitHub
+
+---
+
+# 📚 Areas of Interest
 
 - VLSI Design
-- FPGA Design
-- Embedded Systems
+- FPGA
 - ASIC Design
+- Embedded Systems
 - Digital Electronics
-- Computer Architecture
-- RTL Design
-- PCB Design
 - IoT
+- PCB Design
+- Computer Architecture
 - Robotics
 
 ---
 
 # 📌 Featured Projects
 
-🚗 Ultrasonic Distance Control with Auto Braking System
+- 🚗 Ultrasonic Distance Control with Auto Braking System
 
-💡 Verilog HDL Projects
+- 💻 Portfolio Website
 
-⚡ Embedded Systems Projects
+- ⚡ Verilog HDL Projects
 
-📡 IoT Projects
+- 🔌 Embedded Systems Projects
 
-💻 Digital Logic Design
+- 📡 IoT Projects
 
-🌐 Personal Portfolio Website
+---
+
+# 🌱 Currently Learning
+
+- SystemVerilog
+
+- RTL Verification
+
+- FPGA Programming
+
+- PCB Design
+
+- MATLAB Simulation
 
 ---
 
@@ -145,7 +170,15 @@ Electronics and Communication Engineering Student | VLSI Enthusiast | Embedded S
 
 ![](https://github-readme-stats.vercel.app/api?username=Gokulan3124&show_icons=true&theme=tokyonight)
 
+---
+
+# 🔥 GitHub Streak
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gokulan3124&theme=tokyonight)
+
+---
+
+# 💻 Most Used Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulan3124&layout=compact&theme=tokyonight)
 
@@ -159,14 +192,22 @@ Electronics and Communication Engineering Student | VLSI Enthusiast | Embedded S
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Gokulan3124&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Gokulan3124&theme=tokyo-night)
 
 ---
 
 # 📫 Contact
 
-📧 Email: **gokulan2431@gmail.com**
+📧 **Email**
 
-🌐 Portfolio: **https://gokulan3124.github.io**
+gokulan2431@gmail.com
 
-💼 LinkedIn: **https://linkedin.com/in/gokulangt**
+🌐 **Portfolio**
+
+https://gokulan3124.github.io
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/gokulangt
+
+⭐ If you like my projects, consider following me on GitHub!
